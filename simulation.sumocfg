@@ -1,0 +1,15 @@
+<configuration>
+    <input>
+        <net-file value="net_half_tls.net.xml"/>
+        <route-files value="routes_reduced.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <gui_only>
+        <quit-on-end value="false"/>
+    </gui_only>
+</configuration>
