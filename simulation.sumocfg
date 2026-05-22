@@ -1,7 +1,7 @@
 <configuration>
     <input>
-        <net-file value="net_half_tls.net.xml"/>
-        <route-files value="routes_reduced.rou.xml"/>
+        <net-file value="G:/finalsumomkc/sumo/net_half_tls.net.xml"/>
+        <route-files value="G:/finalsumomkc/sumo/routes_reduced.rou.xml"/>
     </input>
 
     <time>
